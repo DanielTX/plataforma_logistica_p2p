@@ -1,10 +1,13 @@
+import AdminDashboard from './views/AdminDashboard';
+
 function App() {
   return (
     <main>
-      {/* Blank screen as requested */}
+      <AdminDashboard />
     </main>
   )
 }
 
 export default App
+
 
